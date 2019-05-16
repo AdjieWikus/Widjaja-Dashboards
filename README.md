@@ -1,4 +1,4 @@
-# [Widjaja Dashboard]
+# Widjaja Dashboard
 
 > Admin dashboard made with vue-cli
 
