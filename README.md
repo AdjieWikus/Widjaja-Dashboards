@@ -9,8 +9,6 @@ This project is a vue version used vue-cli
 ## Requirements
 ```
 Node js
-```
-```
 NPM
 ```
 ### install dependencies
