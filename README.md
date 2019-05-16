@@ -2,7 +2,13 @@
 
 > Admin dashboard made with vue
 
-This project is a vue version used vue-cli
+This project contain 
+  - Bootstrap
+  - Scss
+  - Font Awesome
+  - Themify
+  - Vue js
+  - Chartist js
 
 ## Documentation
 
@@ -17,7 +23,7 @@ npm install
 ```
 ### serve with hot reload at localhost:8080
 ```
-npm run dev
+npm run start
 ```
 ### build for production with minification
 ```
