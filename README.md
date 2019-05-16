@@ -1,15 +1,18 @@
-# [Vue Paper Dashboard]
+# [Widjaja Dashboard]
 
-> Admin dashboard based with vue
+> Admin dashboard made with vue
 
-This project is a vue version
+This project is a vue version used vue-cli
 
 ## Documentation
 
 ## Requirements
-Node js 
+```
+Node js
+```
+```
 NPM
-
+```
 ### install dependencies
 ```
 npm install
@@ -23,8 +26,3 @@ npm run dev
 npm run build
 ```
 ```
-## Contribution guide
-* Fork the repository
-* `npm install`
-* Make changes
-* Open Pull Request
