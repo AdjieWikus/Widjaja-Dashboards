@@ -2,13 +2,13 @@
 
 > Admin dashboard made with vue-cli
 
-This project contain 
-  - [Bootstrap](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Cheatsheet")
-  - Scss
-  - Font Awesome
-  - Themify
-  - Vue js
-  - Chartist js
+This project contains a Framework
+  - [Bootstrap](https://getbootstrap.com)
+  - [Scss](https://sass-lang.com/)
+  - [Font Awesome](https://fontawesome.com)
+  - [Themify](https://themify.me)
+  - [Vue js](https://vuejs.org/)
+  - [Chartist js](https://gionkunz.github.io/chartist-js/)
 
 ## Documentation
 
