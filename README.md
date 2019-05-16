@@ -1,9 +1,9 @@
 # [Widjaja Dashboard]
 
-> Admin dashboard made with vue
+> Admin dashboard made with vue-cli
 
 This project contain 
-  - Bootstrap
+  - [Bootstrap](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Cheatsheet")
   - Scss
   - Font Awesome
   - Themify
